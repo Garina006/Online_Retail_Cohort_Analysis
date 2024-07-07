@@ -11,4 +11,4 @@ SELECT
     COUNT(DISTINCT Customer_ID) AS num_customers
 FROM online-retail-rfm-cohort.online_retail.clean_customer
 
-ORDER BY Cohort
+ORDER BY Cohort;
