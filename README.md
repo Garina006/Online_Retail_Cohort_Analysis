@@ -1,7 +1,8 @@
 # Online_Retail_Cohort_Analysis
 
 ### Description:
-Project Overview
+
+### Project Overview
 This project focuses on analyzing key product metrics for buyers segmented into cohorts based on the date of their first order. A cohort refers to a group of users who share common characteristics such as their date of registration, first purchase, interests, and engagement channels. Cohort analysis involves tracking these groups over time to uncover patterns and understand recurring behaviors such as purchases, engagement levels, and spending amounts.
 
 ### Dataset and Data Preparation
